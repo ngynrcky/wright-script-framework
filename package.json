@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "An automation framework using Playwright and TypeScript.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint . --ext .ts,.js",
+    "lint:fix": "eslint . --ext .ts,.js --fix"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
