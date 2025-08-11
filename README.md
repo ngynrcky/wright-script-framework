@@ -1,5 +1,7 @@
 # Wright Script Framework
 
+![Playwright Tests](https://github.com/ngynrcky/wright-script-framework/actions/workflows/playwright.yml/badge.svg?branch=main)
+
 A simple automation framework built with **Playwright** and **TypeScript**.
 
 This project serves as a learning platform to gain hands-on experience with Playwright's powerful browser automation capabilities and TypeScript's type-safe features.
@@ -27,5 +29,3 @@ This project serves as a learning platform to gain hands-on experience with Play
 ## CI Integration
 
 This project includes a GitHub Actions workflow to automatically run tests on push and pull requests to the main branch.
-
-![Playwright Tests](https://github.com/ngynrcky/wright-script-framework/actions/workflows/playwright.yml/badge.svg?branch=main)
